@@ -1,4 +1,4 @@
-# Experiment-1
+# Experiment 1
 
 
 ----- ALPHABET SOUP PROBLEM -----
