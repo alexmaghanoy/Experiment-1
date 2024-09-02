@@ -1,4 +1,4 @@
-# Experiment 1
+# Programming Assignment 1
 
 
 ----- ALPHABET SOUP PROBLEM -----
